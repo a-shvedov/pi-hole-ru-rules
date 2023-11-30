@@ -2,9 +2,13 @@ googletagmanager.com
 stats.g.doubleclick.net
 adservice.google.com
 pagead2.googlesyndication.com
+stands.s3.yandex.net
 ajax.googleapis.com
 feedburner.com
-yandex.ru/ads/system/context.js
+suggest.sso.dzen.ru
+static.dzeninfra.ru
+avatars.mds.yandex.net
+adreasons.yandex-team.ru
 company.habr.com
 away.vk.com
 direct.yandex.ru
