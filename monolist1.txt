@@ -1,3 +1,13 @@
+googletagmanager.com
+stats.g.doubleclick.net
+adservice.google.com
+pagead2.googlesyndication.com
+ajax.googleapis.com
+feedburner.com
+yandex.ru/ads/system/context.js
+company.habr.com
+away.vk.com
+direct.yandex.ru
 520.yastatic.net
 7762743178.mail.ru
 87772500022.mail.ru
