@@ -1,3 +1,17 @@
+awacs.direct.yandex.ru
+ws41-069.yandex.ru
+las2-0094.yandex.ru
+varimoptiku.yandex.ru
+bsarchive25h.yandex.ru
+demetra.su.yandex.ru
+baikal-fauna.yandex.ru
+igumnovsasha.yandex.ru
+deminskivv.yandex.ru
+bmexpo01i.yandex.ru
+stydentka302.yandex.ru
+imosys.yandex.ru
+yildirim84.yandex.ru
+msh02d.yandex.ru
 googletagmanager.com
 stats.g.doubleclick.net
 adservice.google.com
